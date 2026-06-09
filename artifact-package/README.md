@@ -23,6 +23,7 @@ Visual feedback should happen where the product problem is visible: click a regi
 
 ## Generated artifacts
 - Prototype: [[../../Prototypes/In-App Agent Comment Controls/README|Comment-to-Patch Surface prototype]] (`index.html`)
+- Trial packet: [[../../Prototypes/In-App Agent Comment Controls/First Real Trial Packet|First Real Trial Packet]]
 - Infographic: [[../../Infographics/In-App Agent Comment Controls Workflow|In-App Agent Comment Controls Workflow]]
 - Skill draft: [[../../Skills/in-app-agent-comment-controls/SKILL|in-app-agent-comment-controls skill draft]]
 - Improvement loop: [[../../Improvement-Loops/In-App Agent Comment Controls Loop|In-App Agent Comment Controls Loop]]
@@ -48,11 +49,12 @@ Validation test: run one live prototype review and count accepted patch tasks vs
 ```
 
 ## Improvement backlog
-- Fill the first real trial packet before claiming validation.
+- Fill the first real trial packet before claiming validation. ✅ Template ready; real evidence still pending.
 - Add one example input/output pair from a live VinClawLabs or X-Intel artifact workflow.
 - Decide whether the skill draft should be promoted after two clean runs.
 
 ## Change log
+- 2026-06-09: Added a fillable first real trial packet and wired it into the prototype/package/loop/repo mirror; no validation claimed.
 - 2026-06-09: Created package, prototype, infographic, skill draft, improvement loop, and standalone GitHub repo mirror.
 
 ## GitHub repo

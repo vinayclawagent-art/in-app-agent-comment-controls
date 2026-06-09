@@ -15,9 +15,11 @@ Inspired by: /home/vinclaw/Documents/Obsidian/x-intel/Artifacts/Generated-Packag
 ## Quickstart
 Open `prototype/index.html` locally if present, then read the package README and improvement loop before making claims of validation.
 
+For the next real workflow, fill `prototype/First Real Trial Packet.md` with source-backed screenshots, comment export, patch diff, and decision evidence.
+
 ## Roadmap
-- Run one real trial.
-- Attach evidence.
+- Run one real trial using the packet.
+- Attach evidence to the packet.
 - Decide promote / iterate / hold.
 
 ## Contributing
